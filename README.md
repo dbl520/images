@@ -1,7 +1,7 @@
 
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbl520&show_icons=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dbl520&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center"> 5 年web前端开发 </p>  
